@@ -1,1 +1,1 @@
-# Parcial-Electiva
+# Parcial Electiva tecnológica – Diego Mendoza

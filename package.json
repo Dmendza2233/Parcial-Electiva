@@ -1,0 +1,16 @@
+{
+  "name": "parcial",
+  "version": "1.0.0",
+  "description": "Parcial electiva II",
+  "main": "ejercicio.js",
+  "scripts": {
+    "start": "node ejercicio.js",
+    "dev": "nodemon ejercicio.js"
+  },
+  "keywords": [],
+  "author": "Diego",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
